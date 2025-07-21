@@ -3,10 +3,10 @@ try:
     from .nodes.nodes_aspect_ratio import *
     from .nodes.nodes_list import *
     from .nodes.nodes_lora import *
-    # from .nodes.nodes_controlnet import *
+    from .nodes.nodes_controlnet import *
     from .nodes.nodes_pipe import *
     from .nodes.nodes_sdxl import *
-    # from .nodes.nodes_model_merge import *
+    from .nodes.nodes_model_merge import *
     from .nodes.nodes_upscale import *
     from .nodes.nodes_xygrid import *
     from .nodes.nodes_legacy import *
